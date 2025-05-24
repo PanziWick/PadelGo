@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969462121948",
+    "project_id": "padelgo-f9d21",
+    "storage_bucket": "padelgo-f9d21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969462121948:android:d103c3d5edabb3ca8c7b19",
+        "android_client_info": {
+          "package_name": "com.icbt.padelgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoj4RFKzYsh_h7I3Hff8csZiJARQXyyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

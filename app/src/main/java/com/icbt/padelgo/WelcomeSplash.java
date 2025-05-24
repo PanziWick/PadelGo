@@ -7,9 +7,6 @@ import android.os.Looper;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
 public class WelcomeSplash extends AppCompatActivity {
 
@@ -21,7 +18,7 @@ public class WelcomeSplash extends AppCompatActivity {
         new Handler(Looper.getMainLooper()).postDelayed(new Runnable() {
             @Override
             public void run() {
-                Intent intent = new Intent(WelcomeSplash.this, MainActivity.class);
+                Intent intent = new Intent(WelcomeSplash.this, Login.class);
                 startActivity(intent);
                 finish();
             }
