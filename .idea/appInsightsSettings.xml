@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.icbt.padelgo" />
+                  <option name="mobileSdkAppId" value="1:969462121948:android:d103c3d5edabb3ca8c7b19" />
+                  <option name="projectId" value="padelgo-f9d21" />
+                  <option name="projectNumber" value="969462121948" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
